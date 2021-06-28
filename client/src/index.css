@@ -1,0 +1,10 @@
+
+body {
+    background-color: #f7f8fc;
+    background-image: url('./images/cool-background.png');
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
